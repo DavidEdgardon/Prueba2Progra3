@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/Prueba2Progra3/UtilidadesListaEnlazada.cpp
+iostream
+-
+fstream
+-
+UtilidadesListaEnlazada.h
+C:/Users/ASUS/CLionProjects/Prueba2Progra3/UtilidadesListaEnlazada.h
+
+C:/Users/ASUS/CLionProjects/Prueba2Progra3/UtilidadesListaEnlazada.h
+
+C:/Users/ASUS/CLionProjects/Prueba2Progra3/main.cpp
+iostream
+-
+conio.h
+-
+UtilidadesListaEnlazada.h
+C:/Users/ASUS/CLionProjects/Prueba2Progra3/UtilidadesListaEnlazada.h
+
